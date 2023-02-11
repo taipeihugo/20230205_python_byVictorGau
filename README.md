@@ -1,0 +1,2 @@
+# 20230205_python_byVictorGau
+高企協python資料分析班
